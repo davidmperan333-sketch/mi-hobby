@@ -1,0 +1,59 @@
+styles.css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf1f5; /* rosa pastel suave */
+  margin: 0;
+}
+
+header {
+  background-color: #b5d8ff; /* azul pastel */
+  color: #333;
+  text-align: center;
+  padding: 15px;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: #333;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #ff9aa2; /* rosa pastel */
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+h2 {
+  color: #7aa2e3; /* azul pastel oscuro */
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+img {
+  width: 100%;
+  max-width: 250px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: #c7f2c2; /* verde pastel */
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
